@@ -1,0 +1,11 @@
+C:\Users\Daniel\Desktop\MiluzsrlC#\.vs\MiLuzSRL\lut\0\b\miluzsrl.Tests\bin\Debug\ApplicationInsights.config
+C:\Users\Daniel\Desktop\MiluzsrlC#\.vs\MiLuzSRL\lut\0\b\miluzsrl.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Daniel\Desktop\MiluzsrlC#\.vs\MiLuzSRL\lut\0\b\miluzsrl.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Daniel\Desktop\MiluzsrlC#\.vs\MiLuzSRL\lut\0\b\miluzsrl.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Daniel\Desktop\MiluzsrlC#\.vs\MiLuzSRL\lut\0\b\miluzsrl.Tests\bin\Debug\miluzsrl.Tests.dll.config
+C:\Users\Daniel\Desktop\MiluzsrlC#\.vs\MiLuzSRL\lut\0\b\miluzsrl.Tests\bin\Debug\miluzsrl.Tests.dll
+C:\Users\Daniel\Desktop\MiluzsrlC#\.vs\MiLuzSRL\lut\0\b\miluzsrl.Tests\bin\Debug\miluzsrl.Tests.pdb
+C:\Users\Daniel\Desktop\MiluzsrlC#\.vs\MiLuzSRL\lut\0\i\miluzsrl.Tests\Debug\miluzsrl.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\MiluzsrlC#\.vs\MiLuzSRL\lut\0\i\miluzsrl.Tests\Debug\miluzsrl.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\MiluzsrlC#\.vs\MiLuzSRL\lut\0\i\miluzsrl.Tests\Debug\miluzsrl.Tests.dll
+C:\Users\Daniel\Desktop\MiluzsrlC#\.vs\MiLuzSRL\lut\0\i\miluzsrl.Tests\Debug\miluzsrl.Tests.pdb

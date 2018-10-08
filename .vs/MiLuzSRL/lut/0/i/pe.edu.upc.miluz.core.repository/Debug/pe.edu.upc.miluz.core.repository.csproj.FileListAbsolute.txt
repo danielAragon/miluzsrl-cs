@@ -1,0 +1,6 @@
+C:\Users\Daniel\Desktop\MiluzsrlC#\.vs\MiLuzSRL\lut\0\b\pe.edu.upc.miluz.core.repository\bin\Debug\pe.edu.upc.miluz.core.repository.dll
+C:\Users\Daniel\Desktop\MiluzsrlC#\.vs\MiLuzSRL\lut\0\b\pe.edu.upc.miluz.core.repository\bin\Debug\pe.edu.upc.miluz.core.repository.pdb
+C:\Users\Daniel\Desktop\MiluzsrlC#\.vs\MiLuzSRL\lut\0\i\pe.edu.upc.miluz.core.repository\Debug\pe.edu.upc.miluz.core.repository.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\MiluzsrlC#\.vs\MiLuzSRL\lut\0\i\pe.edu.upc.miluz.core.repository\Debug\pe.edu.upc.miluz.core.repository.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\MiluzsrlC#\.vs\MiLuzSRL\lut\0\i\pe.edu.upc.miluz.core.repository\Debug\pe.edu.upc.miluz.core.repository.dll
+C:\Users\Daniel\Desktop\MiluzsrlC#\.vs\MiLuzSRL\lut\0\i\pe.edu.upc.miluz.core.repository\Debug\pe.edu.upc.miluz.core.repository.pdb

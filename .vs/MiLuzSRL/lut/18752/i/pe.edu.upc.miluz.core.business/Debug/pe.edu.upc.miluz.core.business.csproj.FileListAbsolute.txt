@@ -1,0 +1,6 @@
+C:\Users\Daniel\Desktop\MiluzsrlC#\.vs\MiLuzSRL\lut\0\b\pe.edu.upc.miluz.core.business\bin\Debug\pe.edu.upc.miluz.core.business.dll
+C:\Users\Daniel\Desktop\MiluzsrlC#\.vs\MiLuzSRL\lut\0\b\pe.edu.upc.miluz.core.business\bin\Debug\pe.edu.upc.miluz.core.business.pdb
+C:\Users\Daniel\Desktop\MiluzsrlC#\.vs\MiLuzSRL\lut\0\i\pe.edu.upc.miluz.core.business\Debug\pe.edu.upc.miluz.core.business.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\MiluzsrlC#\.vs\MiLuzSRL\lut\0\i\pe.edu.upc.miluz.core.business\Debug\pe.edu.upc.miluz.core.business.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\MiluzsrlC#\.vs\MiLuzSRL\lut\0\i\pe.edu.upc.miluz.core.business\Debug\pe.edu.upc.miluz.core.business.dll
+C:\Users\Daniel\Desktop\MiluzsrlC#\.vs\MiLuzSRL\lut\0\i\pe.edu.upc.miluz.core.business\Debug\pe.edu.upc.miluz.core.business.pdb

@@ -1,0 +1,7 @@
+C:\Users\Daniel\Desktop\MiluzsrlC#\.vs\MiLuzSRL\lut\0\b\miluzsrl\bin\ApplicationInsights.config
+C:\Users\Daniel\Desktop\MiluzsrlC#\.vs\MiLuzSRL\lut\0\b\miluzsrl\bin\miluzsrl.dll.config
+C:\Users\Daniel\Desktop\MiluzsrlC#\.vs\MiLuzSRL\lut\0\b\miluzsrl\bin\miluzsrl.dll
+C:\Users\Daniel\Desktop\MiluzsrlC#\.vs\MiLuzSRL\lut\0\b\miluzsrl\bin\miluzsrl.pdb
+C:\Users\Daniel\Desktop\MiluzsrlC#\.vs\MiLuzSRL\lut\0\i\miluzsrl\Debug\miluzsrl.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\MiluzsrlC#\.vs\MiLuzSRL\lut\0\i\miluzsrl\Debug\miluzsrl.dll
+C:\Users\Daniel\Desktop\MiluzsrlC#\.vs\MiLuzSRL\lut\0\i\miluzsrl\Debug\miluzsrl.pdb

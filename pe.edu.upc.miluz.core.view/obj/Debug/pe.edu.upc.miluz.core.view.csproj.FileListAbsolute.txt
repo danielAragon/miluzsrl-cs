@@ -1,0 +1,15 @@
+C:\Users\Daniel\Desktop\MiluzsrlC#\pe.edu.upc.miluz.core.view\bin\Debug\pe.edu.upc.miluz.core.view.exe.config
+C:\Users\Daniel\Desktop\MiluzsrlC#\pe.edu.upc.miluz.core.view\bin\Debug\pe.edu.upc.miluz.core.view.exe
+C:\Users\Daniel\Desktop\MiluzsrlC#\pe.edu.upc.miluz.core.view\bin\Debug\pe.edu.upc.miluz.core.view.pdb
+C:\Users\Daniel\Desktop\MiluzsrlC#\pe.edu.upc.miluz.core.view\bin\Debug\pe.edu.upc.miluz.core.business.dll
+C:\Users\Daniel\Desktop\MiluzsrlC#\pe.edu.upc.miluz.core.view\bin\Debug\pe.edu.upc.miluz.core.entity.dll
+C:\Users\Daniel\Desktop\MiluzsrlC#\pe.edu.upc.miluz.core.view\bin\Debug\pe.edu.upc.miluz.core.repository.dll
+C:\Users\Daniel\Desktop\MiluzsrlC#\pe.edu.upc.miluz.core.view\bin\Debug\pe.edu.upc.miluz.core.business.pdb
+C:\Users\Daniel\Desktop\MiluzsrlC#\pe.edu.upc.miluz.core.view\bin\Debug\pe.edu.upc.miluz.core.entity.pdb
+C:\Users\Daniel\Desktop\MiluzsrlC#\pe.edu.upc.miluz.core.view\bin\Debug\pe.edu.upc.miluz.core.repository.pdb
+C:\Users\Daniel\Desktop\MiluzsrlC#\pe.edu.upc.miluz.core.view\obj\Debug\pe.edu.upc.miluz.core.view.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\MiluzsrlC#\pe.edu.upc.miluz.core.view\obj\Debug\pe.edu.upc.miluz.core.view.Properties.Resources.resources
+C:\Users\Daniel\Desktop\MiluzsrlC#\pe.edu.upc.miluz.core.view\obj\Debug\pe.edu.upc.miluz.core.view.csproj.GenerateResource.Cache
+C:\Users\Daniel\Desktop\MiluzsrlC#\pe.edu.upc.miluz.core.view\obj\Debug\pe.edu.upc.miluz.core.view.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\MiluzsrlC#\pe.edu.upc.miluz.core.view\obj\Debug\pe.edu.upc.miluz.core.view.exe
+C:\Users\Daniel\Desktop\MiluzsrlC#\pe.edu.upc.miluz.core.view\obj\Debug\pe.edu.upc.miluz.core.view.pdb

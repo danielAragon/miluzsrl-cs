@@ -1,0 +1,10 @@
+C:\Users\Daniel\Desktop\MiluzsrlC#\pe.edu.upc.miluz.core.business\bin\Debug\pe.edu.upc.miluz.core.business.dll
+C:\Users\Daniel\Desktop\MiluzsrlC#\pe.edu.upc.miluz.core.business\bin\Debug\pe.edu.upc.miluz.core.business.pdb
+C:\Users\Daniel\Desktop\MiluzsrlC#\pe.edu.upc.miluz.core.business\bin\Debug\pe.edu.upc.miluz.core.entity.dll
+C:\Users\Daniel\Desktop\MiluzsrlC#\pe.edu.upc.miluz.core.business\bin\Debug\pe.edu.upc.miluz.core.repository.dll
+C:\Users\Daniel\Desktop\MiluzsrlC#\pe.edu.upc.miluz.core.business\bin\Debug\pe.edu.upc.miluz.core.entity.pdb
+C:\Users\Daniel\Desktop\MiluzsrlC#\pe.edu.upc.miluz.core.business\bin\Debug\pe.edu.upc.miluz.core.repository.pdb
+C:\Users\Daniel\Desktop\MiluzsrlC#\pe.edu.upc.miluz.core.business\obj\Debug\pe.edu.upc.miluz.core.business.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\MiluzsrlC#\pe.edu.upc.miluz.core.business\obj\Debug\pe.edu.upc.miluz.core.business.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\MiluzsrlC#\pe.edu.upc.miluz.core.business\obj\Debug\pe.edu.upc.miluz.core.business.dll
+C:\Users\Daniel\Desktop\MiluzsrlC#\pe.edu.upc.miluz.core.business\obj\Debug\pe.edu.upc.miluz.core.business.pdb

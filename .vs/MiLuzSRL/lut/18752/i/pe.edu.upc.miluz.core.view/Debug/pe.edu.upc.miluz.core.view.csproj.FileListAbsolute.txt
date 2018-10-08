@@ -1,0 +1,9 @@
+C:\Users\Daniel\Desktop\MiluzsrlC#\.vs\MiLuzSRL\lut\0\b\pe.edu.upc.miluz.core.view\bin\Debug\pe.edu.upc.miluz.core.view.exe.config
+C:\Users\Daniel\Desktop\MiluzsrlC#\.vs\MiLuzSRL\lut\0\b\pe.edu.upc.miluz.core.view\bin\Debug\pe.edu.upc.miluz.core.view.exe
+C:\Users\Daniel\Desktop\MiluzsrlC#\.vs\MiLuzSRL\lut\0\b\pe.edu.upc.miluz.core.view\bin\Debug\pe.edu.upc.miluz.core.view.pdb
+C:\Users\Daniel\Desktop\MiluzsrlC#\.vs\MiLuzSRL\lut\0\i\pe.edu.upc.miluz.core.view\Debug\pe.edu.upc.miluz.core.view.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\MiluzsrlC#\.vs\MiLuzSRL\lut\0\i\pe.edu.upc.miluz.core.view\Debug\pe.edu.upc.miluz.core.view.Properties.Resources.resources
+C:\Users\Daniel\Desktop\MiluzsrlC#\.vs\MiLuzSRL\lut\0\i\pe.edu.upc.miluz.core.view\Debug\pe.edu.upc.miluz.core.view.csproj.GenerateResource.Cache
+C:\Users\Daniel\Desktop\MiluzsrlC#\.vs\MiLuzSRL\lut\0\i\pe.edu.upc.miluz.core.view\Debug\pe.edu.upc.miluz.core.view.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\MiluzsrlC#\.vs\MiLuzSRL\lut\0\i\pe.edu.upc.miluz.core.view\Debug\pe.edu.upc.miluz.core.view.exe
+C:\Users\Daniel\Desktop\MiluzsrlC#\.vs\MiLuzSRL\lut\0\i\pe.edu.upc.miluz.core.view\Debug\pe.edu.upc.miluz.core.view.pdb

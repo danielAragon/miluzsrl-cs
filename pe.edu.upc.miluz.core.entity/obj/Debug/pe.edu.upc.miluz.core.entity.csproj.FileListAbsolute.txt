@@ -1,0 +1,6 @@
+C:\Users\Daniel\Desktop\MiluzsrlC#\pe.edu.upc.miluz.core.entity\bin\Debug\pe.edu.upc.miluz.core.entity.dll
+C:\Users\Daniel\Desktop\MiluzsrlC#\pe.edu.upc.miluz.core.entity\bin\Debug\pe.edu.upc.miluz.core.entity.pdb
+C:\Users\Daniel\Desktop\MiluzsrlC#\pe.edu.upc.miluz.core.entity\obj\Debug\pe.edu.upc.miluz.core.entity.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\MiluzsrlC#\pe.edu.upc.miluz.core.entity\obj\Debug\pe.edu.upc.miluz.core.entity.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\MiluzsrlC#\pe.edu.upc.miluz.core.entity\obj\Debug\pe.edu.upc.miluz.core.entity.dll
+C:\Users\Daniel\Desktop\MiluzsrlC#\pe.edu.upc.miluz.core.entity\obj\Debug\pe.edu.upc.miluz.core.entity.pdb
