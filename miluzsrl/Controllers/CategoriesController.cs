@@ -1,4 +1,5 @@
-﻿using System;
+﻿using miluzsrl.Data_Acces;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -8,7 +9,7 @@ namespace miluzsrl.Controllers
 {
     public class CategoriesController : Controller
     {
-        public object ICategoriaRepository { get; private set; }
+        ICategoriaRepository categoriaRepository = new CategoriaRepository()
 
         // GET: Categories
         public ActionResult Index()
@@ -17,7 +18,6 @@ namespace miluzsrl.Controllers
         }
         public ActionResult Listar()
         {
-            ICategoriaRepository categoriaRepository = 
             return View();
         }
         public ActionResult Registrar()

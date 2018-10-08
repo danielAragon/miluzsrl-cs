@@ -6,13 +6,13 @@ using System.Web;
 
 namespace miluzsrl.Data_Acces
 {
-    interface ICategoriaRepoitory
+    public interface ICategoriaRepoitory
     {
         void Registrar(Categoria categoria);
         void Actualizar(Categoria categoria);
         List<Categoria> Filtrar(string filtro);
     }
-    public class CategoriaRepoitory : ICategoriaRepoitory
+    public class CategoriaRepository : ICategoriaRepoitory
     {
         public Entities context = new Entities();
 
